@@ -1,0 +1,37 @@
+body{
+    background-color: rgba(250, 245, 245, 0.744);
+}
+#topbar a {
+    margin-left: 10px;
+}
+#principal{
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    position: relative;
+}
+#slider{
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    position: relative;
+}
+
+#marcas{
+    background-color: white;
+    width: 100%;
+    max-width: 900px;
+    box-shadow: 0px 0px 0px;
+    box-sizing: border-box; 
+    float: relative;
+}
+
+    
+#categorias img{
+    max-width: 900px;
+    width: 100%;
+
+}
+#icon-red i{
+    color: brown;
+}
